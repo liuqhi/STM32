@@ -16,10 +16,6 @@
 *.out
 *.app
 *.lst
-*.ioc
-*.uvprojx
-*.ini
-*.uvoptx
 *.Administrator
 *.QinghongLiu
 
